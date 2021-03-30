@@ -1,0 +1,13 @@
+B:\Lab 5\ex3\bin\Debug\netcoreapp3.1\ex3.exe
+B:\Lab 5\ex3\bin\Debug\netcoreapp3.1\ex3.deps.json
+B:\Lab 5\ex3\bin\Debug\netcoreapp3.1\ex3.runtimeconfig.json
+B:\Lab 5\ex3\bin\Debug\netcoreapp3.1\ex3.runtimeconfig.dev.json
+B:\Lab 5\ex3\bin\Debug\netcoreapp3.1\ex3.dll
+B:\Lab 5\ex3\bin\Debug\netcoreapp3.1\ex3.pdb
+B:\Lab 5\ex3\obj\Debug\netcoreapp3.1\ex3.csprojAssemblyReference.cache
+B:\Lab 5\ex3\obj\Debug\netcoreapp3.1\ex3.AssemblyInfoInputs.cache
+B:\Lab 5\ex3\obj\Debug\netcoreapp3.1\ex3.AssemblyInfo.cs
+B:\Lab 5\ex3\obj\Debug\netcoreapp3.1\ex3.csproj.CoreCompileInputs.cache
+B:\Lab 5\ex3\obj\Debug\netcoreapp3.1\ex3.dll
+B:\Lab 5\ex3\obj\Debug\netcoreapp3.1\ex3.pdb
+B:\Lab 5\ex3\obj\Debug\netcoreapp3.1\ex3.genruntimeconfig.cache

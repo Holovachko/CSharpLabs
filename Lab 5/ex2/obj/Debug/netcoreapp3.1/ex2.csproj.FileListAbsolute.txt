@@ -1,0 +1,12 @@
+B:\Lab 5\ex2\bin\Debug\netcoreapp3.1\ex2.exe
+B:\Lab 5\ex2\bin\Debug\netcoreapp3.1\ex2.deps.json
+B:\Lab 5\ex2\bin\Debug\netcoreapp3.1\ex2.runtimeconfig.json
+B:\Lab 5\ex2\bin\Debug\netcoreapp3.1\ex2.runtimeconfig.dev.json
+B:\Lab 5\ex2\bin\Debug\netcoreapp3.1\ex2.dll
+B:\Lab 5\ex2\bin\Debug\netcoreapp3.1\ex2.pdb
+B:\Lab 5\ex2\obj\Debug\netcoreapp3.1\ex2.AssemblyInfoInputs.cache
+B:\Lab 5\ex2\obj\Debug\netcoreapp3.1\ex2.AssemblyInfo.cs
+B:\Lab 5\ex2\obj\Debug\netcoreapp3.1\ex2.csproj.CoreCompileInputs.cache
+B:\Lab 5\ex2\obj\Debug\netcoreapp3.1\ex2.dll
+B:\Lab 5\ex2\obj\Debug\netcoreapp3.1\ex2.pdb
+B:\Lab 5\ex2\obj\Debug\netcoreapp3.1\ex2.genruntimeconfig.cache
