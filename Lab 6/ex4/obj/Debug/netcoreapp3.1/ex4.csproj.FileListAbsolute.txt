@@ -1,0 +1,12 @@
+B:\Програмування ДЗ\Lab 6\ex4\bin\Debug\netcoreapp3.1\ex4.exe
+B:\Програмування ДЗ\Lab 6\ex4\bin\Debug\netcoreapp3.1\ex4.deps.json
+B:\Програмування ДЗ\Lab 6\ex4\bin\Debug\netcoreapp3.1\ex4.runtimeconfig.json
+B:\Програмування ДЗ\Lab 6\ex4\bin\Debug\netcoreapp3.1\ex4.runtimeconfig.dev.json
+B:\Програмування ДЗ\Lab 6\ex4\bin\Debug\netcoreapp3.1\ex4.dll
+B:\Програмування ДЗ\Lab 6\ex4\bin\Debug\netcoreapp3.1\ex4.pdb
+B:\Програмування ДЗ\Lab 6\ex4\obj\Debug\netcoreapp3.1\ex4.AssemblyInfoInputs.cache
+B:\Програмування ДЗ\Lab 6\ex4\obj\Debug\netcoreapp3.1\ex4.AssemblyInfo.cs
+B:\Програмування ДЗ\Lab 6\ex4\obj\Debug\netcoreapp3.1\ex4.csproj.CoreCompileInputs.cache
+B:\Програмування ДЗ\Lab 6\ex4\obj\Debug\netcoreapp3.1\ex4.dll
+B:\Програмування ДЗ\Lab 6\ex4\obj\Debug\netcoreapp3.1\ex4.pdb
+B:\Програмування ДЗ\Lab 6\ex4\obj\Debug\netcoreapp3.1\ex4.genruntimeconfig.cache
