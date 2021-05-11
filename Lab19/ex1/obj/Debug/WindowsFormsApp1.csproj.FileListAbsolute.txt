@@ -1,0 +1,20 @@
+C:\C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Вася\Desktop\Lab19\Lab 19.1.5\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Вася\Desktop\Lab19\Lab 19.1.5\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Вася\Desktop\Lab19\Lab 19.1.5\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Вася\Desktop\Lab19\Lab 19.1.5\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Вася\Desktop\Lab19\Lab 19.1.5\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Вася\Desktop\Lab19\Lab 19.1.5\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Вася\Desktop\Lab19\Lab 19.1.5\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Вася\Desktop\Lab19\Lab 19.1.5\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Вася\Desktop\Lab19\Lab 19.1.5\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Вася\Desktop\Lab19\Lab 19.1.5\obj\Debug\WindowsFormsApp1.pdb
