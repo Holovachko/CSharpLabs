@@ -1,0 +1,10 @@
+C:\Users\Вася\Desktop\Ex2\bin\Debug\Ex2.exe.config
+C:\Users\Вася\Desktop\Ex2\bin\Debug\Ex2.exe
+C:\Users\Вася\Desktop\Ex2\bin\Debug\Ex2.pdb
+C:\Users\Вася\Desktop\Ex2\obj\Debug\Ex2.csprojAssemblyReference.cache
+C:\Users\Вася\Desktop\Ex2\obj\Debug\Ex2.Form1.resources
+C:\Users\Вася\Desktop\Ex2\obj\Debug\Ex2.Properties.Resources.resources
+C:\Users\Вася\Desktop\Ex2\obj\Debug\Ex2.csproj.GenerateResource.cache
+C:\Users\Вася\Desktop\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Вася\Desktop\Ex2\obj\Debug\Ex2.exe
+C:\Users\Вася\Desktop\Ex2\obj\Debug\Ex2.pdb
